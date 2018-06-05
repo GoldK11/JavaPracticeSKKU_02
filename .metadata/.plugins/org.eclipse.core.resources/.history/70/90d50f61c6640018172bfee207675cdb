@@ -1,0 +1,5 @@
+package kr.jaen.java;
+
+public class DupException extends Exception {
+
+}

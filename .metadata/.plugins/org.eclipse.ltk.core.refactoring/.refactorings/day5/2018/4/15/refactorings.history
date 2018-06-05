@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;edu.skku.java.bank.BankManager.searchA(...)&apos; to &apos;searchNum&apos;&#x0D;&#x0A;- Original project: &apos;day5&apos;&#x0D;&#x0A;- Original element: &apos;edu.skku.java.bank.BankManager.searchA(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;edu.skku.java.bank.BankManager.searchNum(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;searchA&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;edu.skku.java.bank{BankManager.java[BankManager~searchA~QString;" name="searchNum" references="true" stamp="1523524928224" version="1.0"/>
+</session>
